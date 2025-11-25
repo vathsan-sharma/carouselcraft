@@ -19,3 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/16GOJG2_Ifg2TZGuoHK2sSt
 3. Run the app:
    `npm run dev`
 # carouselcraft
+# carouselcraft
